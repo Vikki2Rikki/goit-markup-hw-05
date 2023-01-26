@@ -12,7 +12,7 @@
     --client-color: #8E8F99;
     --footer-accent-color: #31D0AA;
     --hero-gra: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)) ;
-    --tra: 1250ms cubic-bezier(0.4, 0, 0.2, 1);
+    --tra: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 }
